@@ -1,0 +1,24 @@
+.todo-item {
+  list-style-type: none;
+  display: flex;
+  justify-content: space-between;
+}
+
+.todo {
+  font-family: 'Roboto';
+  font-size: 18px;
+  color: #000000;
+}
+
+.button {
+  font-family: 'Roboto';
+  font-size: 15px;
+  color: #ff0b37;
+  border: 1px solid #ff0b37;
+  border-radius: 10px;
+  height: 30px;
+  width: 90px;
+  background-color: #ffffff;
+  cursor: pointer;
+  outline: none;
+}
